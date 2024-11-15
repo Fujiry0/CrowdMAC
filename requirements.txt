@@ -1,0 +1,17 @@
+einops
+hydra-core
+joblib
+matplotlib
+numpy
+omegaconf
+opencv-python
+pandas
+pillow
+scikit-learn
+scikit-image
+scipy
+tensorboard
+timm
+tqdm
+wandb
+easydict
